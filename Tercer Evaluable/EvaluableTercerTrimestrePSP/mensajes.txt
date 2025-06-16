@@ -1,0 +1,4 @@
+Juanjo: Hola
+Javier -> Juanjo (privado): Hola Juanjo
+Javier: que tal?
+Juanjo -> Javier (privado): bien y tu?
